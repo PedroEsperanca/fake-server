@@ -7,5 +7,15 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "PassWeb/AxonHandler": {
+    "ServerResponse": "LoginRequest",
+    "OriginalSession": null,
+    "ResponseData": {
+        "AllowExport2XLS": true,
+        "AllowShowHistory": true,
+        "LoginResult": "OK"
+    },
+    "ResponseSession": "CF15DA5EA6386F4AA979D8FC24CFC6E2"
   }
 }
